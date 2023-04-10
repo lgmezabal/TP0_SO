@@ -1,0 +1,10 @@
+[INFO] 13:37:02:071 Servidor/(2380:2380): Servidor listo para recibir al cliente
+[INFO] 13:37:18:137 Servidor/(2399:2399): Servidor listo para recibir al cliente
+[INFO] 13:40:56:115 Servidor/(2380:2380): Se conecto un cliente!
+[INFO] 13:40:56:116 Servidor/(2380:2380): Me llego el mensaje hola
+[INFO] 13:41:59:107 Servidor/(2380:2380): Me llegaron los siguientes valores:
+
+[INFO] 13:41:59:108 Servidor/(2380:2380): B01‰UV
+[INFO] 13:41:59:108 Servidor/(2380:2380): ‡ú““‚
+[INFO] 13:41:59:108 Servidor/(2380:2380): ‡ú““‚
+[ERROR] 13:41:59:108 Servidor/(2380:2380): el cliente se desconecto. Terminando servidor
